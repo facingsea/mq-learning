@@ -1,4 +1,4 @@
-package com.facingsea.rabbitmq;
+package com.facingsea.rabbitmq.base;
 
 import java.io.IOException;
 import java.util.concurrent.TimeoutException;
